@@ -1,4 +1,4 @@
-# Learning Schedule: Green IT Journey (June – December 2026)
+# Learning Schedule: Green IT Journey
 
 This document tracks my progress and plans as I build expertise in Green IT, combining sustainability and technology.
 
